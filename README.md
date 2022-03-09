@@ -1,4 +1,4 @@
-# **incremental loading and merging using Hive and MySQL**
+# **Incremental loading and merging using Hive and MySQL**
 
 **PROBLEM:**
 

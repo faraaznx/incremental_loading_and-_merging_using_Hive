@@ -1,4 +1,4 @@
-# **incremental_loading_and_merging_using_Hive**
+# **incremental loading and merging using Hive and MySQL**
 
 **PROBLEM:**
 
